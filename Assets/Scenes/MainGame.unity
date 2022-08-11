@@ -53646,6 +53646,10 @@ PrefabInstance:
       propertyPath: m_audioClip
       value: 
       objectReference: {fileID: 8300000, guid: b5c209c6fd069cf4283230ec8f030c4c, type: 3}
+    - target: {fileID: 471623654, guid: 9c43fc5bc7a748841990c51f6ff66913, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 471623655, guid: 9c43fc5bc7a748841990c51f6ff66913, type: 3}
       propertyPath: healthbarScript
       value: 
